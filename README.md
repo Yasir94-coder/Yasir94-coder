@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasir94-coder
 - 👀 I’m interested in learning basic code
-- 🌱 I’m currently learning create my own website
+- 🌱 I’m currently learning to create my own website
 - 💞️ I’m looking to collaborate on projects with new learners
 - 😄 Pronouns: Him
 
